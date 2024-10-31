@@ -1,0 +1,31 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos de configuração de usuário
+*.user
+*.rsuser
+*.suo
+
+# Logs e backups
+*.log
+*.bak
+
+# Arquivos de cache e temporários
+*.tmp
+*.temp
+*.pid
+*.sln.docstates
+
+# Configurações locais e caches do Visual Studio
+.vscode/
+.vs/
+
+# Arquivos de pacote e publicação
+*.nupkg
+*.snupkg
+
+# Arquivos de build gerados pelo .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
